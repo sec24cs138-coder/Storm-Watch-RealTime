@@ -1,0 +1,6 @@
+[
+  {"id":"velachery","name":"Velachery","tamil_name":"வேளச்சேரி","x":26,"y":72,"population":520,"vulnerable":{"elderly":95,"children":110,"disabled":30},"flood_exposure":0.90},
+  {"id":"adyar","name":"Adyar","tamil_name":"அடையாறு","x":38,"y":18,"population":450,"vulnerable":{"elderly":80,"children":70,"disabled":20},"flood_exposure":0.70},
+  {"id":"taramani","name":"Taramani","tamil_name":"தரமணி","x":66,"y":56,"population":380,"vulnerable":{"elderly":40,"children":55,"disabled":10},"flood_exposure":0.60},
+  {"id":"thiruvanmiyur","name":"Thiruvanmiyur","tamil_name":"திருவான்மியூர்","x":82,"y":22,"population":300,"vulnerable":{"elderly":35,"children":40,"disabled":8},"flood_exposure":0.45}
+]

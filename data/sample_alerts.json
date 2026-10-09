@@ -1,0 +1,4 @@
+[
+  {"id":"A1","title":"Heavy Rain & Flood Warning - ORANGE (SIMULATED)","severity":"orange","area_ids":["velachery","adyar","taramani"],"summary":"Simulated warning: extreme rainfall expected over south Chennai-style zones. Illustrative data only."},
+  {"id":"A2","title":"Severe Flood Warning - RED (SIMULATED)","severity":"red","area_ids":["velachery","adyar","taramani","thiruvanmiyur"],"summary":"Simulated escalation covering all four zones. Demonstrates a case where shelter capacity runs short."}
+]

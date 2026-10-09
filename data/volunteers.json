@@ -1,0 +1,8 @@
+[
+  {"id":"V1","name":"Priya S.","skills":["medical","translation"],"available":true,"x":40,"y":24},
+  {"id":"V2","name":"Karthik R.","skills":["boat_rescue","driving"],"available":true,"x":30,"y":66},
+  {"id":"V3","name":"Meena D.","skills":["logistics","driving"],"available":true,"x":62,"y":52},
+  {"id":"V4","name":"Arun P.","skills":["medical","logistics"],"available":true,"x":46,"y":58},
+  {"id":"V5","name":"Divya K.","skills":["translation","logistics"],"available":true,"x":80,"y":26},
+  {"id":"V6","name":"Suresh M.","skills":["boat_rescue"],"available":false,"x":20,"y":60}
+]

@@ -1,0 +1,17 @@
+{
+  "junctions":[{"id":"j_centre","name":"Central Junction (illustrative)","x":48,"y":46}],
+  "roads":[
+    {"id":"R1","name":"Velachery - Hall Road","from":"velachery","to":"shelter_hall","minutes":12},
+    {"id":"R2","name":"Velachery - Central Link","from":"velachery","to":"j_centre","minutes":10},
+    {"id":"R3","name":"Adyar - Central Link","from":"adyar","to":"j_centre","minutes":8},
+    {"id":"R4","name":"Adyar - School Road","from":"adyar","to":"shelter_school","minutes":9},
+    {"id":"R5","name":"Central - School Road","from":"j_centre","to":"shelter_school","minutes":11},
+    {"id":"R6","name":"Central - Taramani Link","from":"j_centre","to":"taramani","minutes":7},
+    {"id":"R7","name":"Taramani - College Road","from":"taramani","to":"shelter_college","minutes":10},
+    {"id":"R8","name":"Taramani - Thiruvanmiyur Road","from":"taramani","to":"thiruvanmiyur","minutes":6},
+    {"id":"R9","name":"Thiruvanmiyur - College Road","from":"thiruvanmiyur","to":"shelter_college","minutes":8},
+    {"id":"R10","name":"Central - Hall Road","from":"j_centre","to":"shelter_hall","minutes":14},
+    {"id":"R11","name":"Velachery - School Bypass","from":"velachery","to":"shelter_school","minutes":18},
+    {"id":"R12","name":"Taramani - Hall Link","from":"taramani","to":"shelter_hall","minutes":15}
+  ]
+}
